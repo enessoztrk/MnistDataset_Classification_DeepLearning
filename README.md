@@ -1,6 +1,6 @@
 Mnist Dataset Classification with Deep Learning
 
-![This is an image](https://github.com/enessoztrk/Mnist_Dataset_Classification_with_DeepLearning/blob/main/mnint_gif/0_u5-PcKYVfUE5s2by.gif?raw=true)<br/><br/>
+![This is an image](https://github.com/enessoztrk/Mnist_Dataset_Classification_with_DeepLearning/blob/main/mnint_gif/0_u5-PcKYVfUE5s2by.gif?raw=true)style="text-align: center"<br/><br/>
 
 Mnist veri kümesi, makine öğrenmesi ve yapay zeka alanlarında sıkça kullanılan, elle yazılmış rakamlardan oluşan bir veri kümesidir.
 Bu veri kümesi, hem akademik araştırmalarda hem de endüstriyel uygulamalarda sıklıkla kullanılmaktadır.
