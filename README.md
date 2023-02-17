@@ -1,7 +1,7 @@
 Mnist Dataset Classification with Deep Learning
 
 <div style="text-align: center;">
-  <img src="https://github.com/enessoztrk/Mnist_Dataset_Classification_with_DeepLearning/blob/main/mnint_gif/0_u5-PcKYVfUE5s2by.gif?raw=true" alt="Mnist Dataset Classification with Deep Learning">
+  <img src="https://github.com/enessoztrk/Mnist_Dataset_Classification_with_DeepLearning/blob/main/mnint_gif/0_u5-PcKYVfUE5s2by.gif?raw=true">
 </div>
 
 
