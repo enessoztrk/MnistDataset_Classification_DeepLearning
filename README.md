@@ -1,8 +1,9 @@
 ### Mnist Dataset Classification with Deep Learning
 
 <p align="center">
-    <img src="https://github.com/enessoztrk/Mnist_Dataset_Classification_with_DeepLearning/blob/main/mnint_gif/0_u5-PcKYVfUE5s2by.gif?raw=true" alt="Mnist Dataset Classification with Deep Learning">
+    <img src="https://github.com/enessoztrk/Mnist_Dataset_Classification_with_DeepLearning/blob/main/mnint_gif/0_u5-PcKYVfUE5s2by.gif?raw=true" alt="Mnist Dataset Classification with Deep Learning" width="600" height="400">
 </p>
+
 
 
 <ul>
@@ -11,7 +12,7 @@
   <li>In this project, I aimed to classify figures using deep learning methods using Mnist dataset.</li><br>
   
 <p align="center">
-    <img src="https://github.com/enessoztrk/Mnist_Dataset_Classification_with_DeepLearning/blob/main/mnint_gif/a27d24_2e71e868470f415c8f4c55145ecebd27_mv2.gif?raw=true" alt="Mnist Dataset Classification with Deep Learning">
+    <img src="https://github.com/enessoztrk/Mnist_Dataset_Classification_with_DeepLearning/blob/main/mnint_gif/a27d24_2e71e868470f415c8f4c55145ecebd27_mv2.gif?raw=true" alt="Mnist Dataset Classification with Deep Learning" width="500" height="300">
 </p>
   
   <li>The Mnist dataset consists of 60,000 training data and 10,000 test data.</li>
