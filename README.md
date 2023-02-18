@@ -25,3 +25,5 @@
   <li>In this process, several factors such as weight adjustments and hyperparameters can be optimized to increase the accuracy of the model.</li>
   <li>These affect the performance of the model.</li>
 </ul>
+
+- Kaggle: https://www.kaggle.com/code/enesztrk/mnist-dataset-classification-with-deep-learning
